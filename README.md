@@ -2,11 +2,11 @@
 
 Postdoctoral Researcher | PhD in Physical and Mathematical Sciences
 
-I study solar–terrestrial relations and space weather prediction, with a particular interest in understanding nonlinear dynamics and complex behavior in geophysical and space-plasma systems.
+I study solar-terrestrial relations and space weather prediction, with a particular interest in understanding nonlinear dynamics and complex behavior in geophysical and space-plasma systems.
 
 # 🔬 Research interests
 
-  - ☀️ Solar–terrestrial relations
+  - ☀️ Solar-terrestrial relations
   -  🌌 Space weather prediction
   - 📈 Nonlinear analysis
   - 🔄 Dynamical systems modelling
@@ -19,7 +19,7 @@ I study solar–terrestrial relations and space weather prediction, with a parti
 
 MATLAB is my primary research tool.
 
-I've been using MATLAB since 2005 — for numerical experiments, nonlinear dynamics, data analysis, modelling, and visualization.
+I've been using MATLAB since 2005 - for numerical experiments, nonlinear dynamics, data analysis, modelling, and visualization.
 
 MATLAB → 2005 → present
 
