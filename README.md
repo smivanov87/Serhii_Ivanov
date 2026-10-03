@@ -4,17 +4,11 @@ Postdoctoral Researcher | PhD in Physical and Mathematical Sciences
 I study solar–terrestrial relations and space weather prediction, with a particular interest in understanding nonlinear dynamics and complex behavior in geophysical and space-plasma systems.
 
 🔬 Research interests
-
 ☀️ Solar–terrestrial relations
-
 🌌 Space weather prediction
-
 📈 Nonlinear analysis
-
 🔄 Dynamical systems modelling
-
 ⚖️ Stability analysis and investigation
-
 🌀 Attractor reconstruction
 
 📐 Fractal dimension estimation
