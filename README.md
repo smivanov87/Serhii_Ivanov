@@ -1,4 +1,4 @@
-# Serhii_Ivanov
+%# Serhii_Ivanov
 Hi, I'm Serhii 👋
 
 Postdoctoral Researcher | PhD in Physical and Mathematical Sciences
@@ -7,23 +7,23 @@ I study solar–terrestrial relations and space weather prediction, with a parti
 
 🔬 Research interests
 
-☀️ Solar–terrestrial relations
+  - ☀️ Solar–terrestrial relations
 
-🌌 Space weather prediction
+  -  🌌 Space weather prediction
 
-📈 Nonlinear analysis
+  - 📈 Nonlinear analysis
 
-🔄 Dynamical systems modelling
+  - 🔄 Dynamical systems modelling
 
-⚖️ Stability analysis and investigation
+  - ⚖️ Stability analysis and investigation
 
-🌀 Attractor reconstruction
+  - 🌀 Attractor reconstruction
 
-📐 Fractal dimension estimation
+  - 📐 Fractal dimension estimation
 
-💻 Scientific computing and numerical modelling
+  - 💻 Scientific computing and numerical modelling
 
-🛠️ Tools & Technologies
+  - 🛠️ Tools & Technologies
 
 
 MATLAB is my primary research tool.
