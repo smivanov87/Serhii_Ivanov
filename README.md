@@ -25,15 +25,7 @@ MATLAB → 2005 → present
 
 I also enjoy developing computational approaches for exploring nonlinear and dynamical phenomena in scientific data.
 
-# 🌍 Research & Collaboration
-
-I'm interested in interdisciplinary research involving:
-
-  - nonlinear dynamics and complex systems
-  - dynamical systems and time-series analysis
-  - solar and geophysical physics
-  - space weather
-  - mathematical and computational modelling
+# 🌍 Collaboration
 
 All collaboration requests are welcome! 🤝
 
