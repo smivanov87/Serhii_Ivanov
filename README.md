@@ -1,11 +1,10 @@
-%# Serhii_Ivanov
-Hi, I'm Serhii 👋
+# Hi, I'm Serhii 👋
 
 Postdoctoral Researcher | PhD in Physical and Mathematical Sciences
 
 I study solar–terrestrial relations and space weather prediction, with a particular interest in understanding nonlinear dynamics and complex behavior in geophysical and space-plasma systems.
 
-🔬 Research interests
+# 🔬 Research interests
 
   - ☀️ Solar–terrestrial relations
 
@@ -34,7 +33,7 @@ MATLAB ━━━━━━━━━━━━━━━━━━━━━━━━�
 
 I also enjoy developing computational approaches for exploring nonlinear and dynamical phenomena in scientific data.
 
-🌍 Research & Collaboration
+# 🌍 Research & Collaboration
 
 I'm interested in interdisciplinary research involving:
 
