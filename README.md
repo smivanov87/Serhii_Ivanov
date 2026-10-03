@@ -29,7 +29,7 @@ MATLAB is my primary research tool.
 
 I've been using MATLAB since 2005 — for numerical experiments, nonlinear dynamics, data analysis, modelling, and visualization.
 
-MATLAB ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2005 → present
+MATLAB → 2005 → present
 
 I also enjoy developing computational approaches for exploring nonlinear and dynamical phenomena in scientific data.
 
