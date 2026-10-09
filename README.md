@@ -9,6 +9,8 @@ I study solar-terrestrial relations and space weather prediction, with a particu
   - ☀️ Solar-terrestrial relations
   - 🌌 Space weather prediction
   - 🌀 Chaos theory and nonlinear dynamics
+  - 🧲 Interplanetary magnetic field (IMF)
+  - 🌍 Geomagnetic field variations
   - 📈 Nonlinear analysis
   - 🔄 Dynamical systems modelling
   - ⚖️ Stability analysis and investigation
