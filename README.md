@@ -7,7 +7,8 @@ I study solar-terrestrial relations and space weather prediction, with a particu
 # 🔬 Research interests
 
   - ☀️ Solar-terrestrial relations
-  -  🌌 Space weather prediction
+  - 🌌 Space weather prediction
+  - 🌀 Chaos theory and nonlinear dynamics
   - 📈 Nonlinear analysis
   - 🔄 Dynamical systems modelling
   - ⚖️ Stability analysis and investigation
